@@ -1,0 +1,16 @@
+#  The contact options.
+
+-
+  type: github
+  icon: 'fab fa-github-alt'
+-
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/vishnu-satish-3627011b2/'
+-
+  type: email
+  icon: 'fas fa-envelope'
+-
+  type: rss
+  icon: 'fas fa-rss'
+
