@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+th {
+    border:2px solid #000000;
+}
+
+td {
+    border:1px solid #000000;
+}
