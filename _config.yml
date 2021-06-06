@@ -23,7 +23,7 @@ description: >-                        # used by seo meta and the atom feed
   My blog where I explore full-stack development, problem-solving, and just general programming.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://blog.vishnus.me'
 
 github:
   username: vishnupsatish
