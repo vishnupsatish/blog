@@ -13,4 +13,4 @@ In this blog, I'll be exploring various topics relating to programming, such as 
 
 I also mostly practice on DMOJ. My account is available here:  <a href="https://dmoj.ca/user/vishnus"><img src="https://mosesxu.ca/badges/dmoj/vishnus.svg"></a>
 
-<script src="assets/js/analytics.js"></script>
+<script src="assets/analytics/analytics.js"></script>
