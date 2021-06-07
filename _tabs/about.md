@@ -4,6 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
+<a href="#"><img src="https://antique-fringe-fennel.glitch.me/badge?page_id=about.md"></a>
 
 Hi there, I am Vishnu! I am a high school student who enjoys problem-solving and making an impact through programming.
 
