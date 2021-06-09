@@ -5,6 +5,8 @@ category: [programming, tools]
 tag: [tools, meta, development]
 ---
 
+<a href="#"><img src="https://antique-fringe-fennel.glitch.me/badge?page_id=a2021-06-07-blog-views-badge.md"></a>
+
 ## Background
 
 I wanted to create a blog, and do so for free without being bound by a service that holds my content. (GitHub doesn't count, since the blog files and the posts are saved locally, and I can migrate easily to another git provider, or even a self-hosted git service if I wanted to).
