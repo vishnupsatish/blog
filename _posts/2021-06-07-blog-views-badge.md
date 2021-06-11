@@ -1,5 +1,5 @@
 ---
-title: Blog Post Views on a Static Blog For Free
+title: Blog post views on a static blog for free
 date: 2021-06-07 20:50:00 -0400
 category: [programming, tools]
 tag: [tools, meta, development]
