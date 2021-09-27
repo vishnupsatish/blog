@@ -7,7 +7,7 @@ tag: [internship]
 
 During the summer of 2021, I interned at the University of Waterloo developing a website for the Software Architecture Group (SWAG). This blog post will outline how I got the internship and general tips and observations that I made.
 
-## Getting the internship
+## Programming and extracurriculars
 
 ### Programming
 
@@ -22,6 +22,8 @@ In the same month, I worked with a mathematics teacher in my high school to crea
 In February 2021, I was afraid. Afraid that my extracurriculars weren't enough, so I made a plan as to what the summer and grade 11 would look like. My plan for the summer was to start a business through the Ontario Summer Business program. My plan for the school year would be to improve my competitive programming skills to try to make CCO in grade 12 and apply to be one of the executives of our school's computer science club.
 
 By March, I had been progressively losing interest in participating in the business program, but I still worked on my application. I also signed up for a LinkedIn account at this time and noticed that a few of my acquaintances had researched at universities, most notably the University of Toronto. I thought to myself, researching at a university seems like a good way to grow my network and learn more about computer science.
+
+## Getting the internship
 
 ### Cold emailing
 
