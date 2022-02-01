@@ -51,7 +51,7 @@ Here's a general plan that I would follow if I were to look for a programming-re
     - It may help to volunteer your programming services at a community level
 2. Create a resume (ideally using Microsoft Word or LaTeX)
     - Try to keep it to one page
-    - [My resume](https://vishnus.me/VishnuSatishResume.pdf){:target="_blank"}
+    - [My resume](https://vishnus.me/resume.pdf){:target="_blank"}
 3. Create an email template, optimally two templates, one to email startups, another to email professors
 4. Add a call to action in your email (don't make it open-ended)
     - One example would be to use Calendly and create a personal meeting link where the recipient can schedule a meeting
